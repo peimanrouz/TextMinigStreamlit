@@ -299,7 +299,7 @@ for i in yourSentence_dict_sorted:
 # st.spinner()
 
 
-st.balloons()
+# st.balloons()
 
 
 st.title(f"خلاصه متن در {sl2} جمله")
